@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import "./style.css";
 import NavMessage from "../NavMessage";
 import Col from 'react-bootstrap/Col';
